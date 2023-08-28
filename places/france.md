@@ -2,7 +2,7 @@
 layout: km-places
 title: k & m
 description: k & m
-permalink: /km/france
+permalink: /france
 ---
 
 ## France

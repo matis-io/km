@@ -2,7 +2,7 @@
 layout: km-places
 title: k & m
 description: k & m
-permalink: /km/belgium
+permalink: /belgium
 ---
 
 ## Belgium
