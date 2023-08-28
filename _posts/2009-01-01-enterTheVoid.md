@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " Enter The Void (2009)"
+title:  " Enter The Void"
 date:   2009-01-01
 tags: [movie]
 ---

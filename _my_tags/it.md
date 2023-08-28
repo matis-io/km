@@ -1,4 +1,4 @@
 ---
-slug: it
-name: IT
+slug: movie
+name: Movie
 ---

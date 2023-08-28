@@ -1,7 +1,7 @@
 ---
 layout: default
-title: k & m
-description: k & m
+title: Places
+description: places
 permalink: /places
 ---
 

@@ -1,5 +1,14 @@
-<h1 class="title">K & M</h1>
+<h1 class="title">{{ site.title }}</h1>
 <nav>
-    <a href="{{ site.baseurl }}/km">← Places by K & M</a>
-</nav>
- 
+    <a href="{{ site.url }}">Home</a> 
+    <a href="{{ site.url }}{{ site.Blog }}">Reviews</a>
+    <a href="{{ site.url }}{{ site.Places }}">Places</a>
+
+    {% for link in site.links %}
+        <a href="{{ site.url }}{{ link[1] }}">{{ link[0] }}</a>
+    {% endfor %}
+    
+    {% for link in site.special_links %}
+            <a href="{{ link[1] }}">[{{ link[0] }}]</a>
+    {% endfor %}
+</nav> 
