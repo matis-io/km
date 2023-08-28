@@ -2,7 +2,7 @@
 layout: km-places
 title: k & m
 description: k & m
-permalink: /km/slovenia
+permalink: /slovenia
 ---
 
 ## Slovenija
