@@ -32,3 +32,28 @@ nice place to take a break, just behind in a nice courthouse there are also a fe
 **Nuture Mini ART Golf Berlin - Minigolf als Kunstpark**  
 A very different minigolf  
 [Location](https://goo.gl/maps/6Eu8WP6u9DaCupY86?coh=178571&entry=tt)  
+
+### Bohn
+
+**Kunst- und Ausstellungshalle der Bundesrepublik Deutschland**  
+X  , with nice bookshop
+[Location](https://goo.gl/maps/NFHvGARMwPp5zKASA)  
+
+**Arithmeum**  
+X  
+[Location](https://goo.gl/maps/opdyYDW6gUTXrNSx6)  
+
+### Cologne
+
+**Kirche Johannes XXIII.**  
+X  
+[Location](https://goo.gl/maps/AnzSsJXYayw99SRDA)  
+
+**Chante Cocotte**  
+X  
+[Location](https://goo.gl/maps/FrVsnoBrmfaZoBNN9)  
+
+**Büdchen am Nikolausplatz**  
+X  
+[Location](https://goo.gl/maps/2Eoi7dDSDd24Nrrh7)  
+
