@@ -12,7 +12,7 @@ a journal of lovely places we found along the way
 [Bosnia](/km/bosnia)  
 [France](/km/france)  
 [Germany](/km/germany)  
-[India](/india)  
+[India](/km/india)  
 Italy  
 [Montenegro](/km/montenegro)  
 Netherlands  
